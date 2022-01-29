@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:monitor:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Projekat2/caches/transforms-2/files-2.1/05efcb989cdb1fbaceb5f89366bb0a23/monitor-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Projekat2/caches/transforms-2/files-2.1/05efcb989cdb1fbaceb5f89366bb0a23/monitor-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../Projekat2/caches/transforms-2/files-2.1/05efcb989cdb1fbaceb5f89366bb0a23/monitor-1.2.0/AndroidManifest.xml" />
+      <root url="file://E:/Fakultet Main/Fakultet Main/Fakultet/4. godina/7. Semestar/Programiranje mobilnih aplikacija predavanje i vezbe/Projektni zadatak/Projekat2/caches/transforms-2/files-2.1/05efcb989cdb1fbaceb5f89366bb0a23/monitor-1.2.0/AndroidManifest.xml" />
+      <root url="jar://E:/Fakultet Main/Fakultet Main/Fakultet/4. godina/7. Semestar/Programiranje mobilnih aplikacija predavanje i vezbe/Projektni zadatak/Projekat2/caches/transforms-2/files-2.1/05efcb989cdb1fbaceb5f89366bb0a23/monitor-1.2.0/jars/classes.jar!/" />
+      <root url="file://E:/Fakultet Main/Fakultet Main/Fakultet/4. godina/7. Semestar/Programiranje mobilnih aplikacija predavanje i vezbe/Projektni zadatak/Projekat2/caches/transforms-2/files-2.1/05efcb989cdb1fbaceb5f89366bb0a23/monitor-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Projekat2/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/2af6ec82fa4b1151212001e83514ccb39f360adc/monitor-1.2.0-javadoc.jar!/" />
+      <root url="jar://E:/Fakultet Main/Fakultet Main/Fakultet/4. godina/7. Semestar/Programiranje mobilnih aplikacija predavanje i vezbe/Projektni zadatak/Projekat2/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/2af6ec82fa4b1151212001e83514ccb39f360adc/monitor-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Projekat2/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/dbbc3050e0945ecea95f4e25b72e169cfe6f32bc/monitor-1.2.0-sources.jar!/" />
+      <root url="jar://E:/Fakultet Main/Fakultet Main/Fakultet/4. godina/7. Semestar/Programiranje mobilnih aplikacija predavanje i vezbe/Projektni zadatak/Projekat2/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/dbbc3050e0945ecea95f4e25b72e169cfe6f32bc/monitor-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
